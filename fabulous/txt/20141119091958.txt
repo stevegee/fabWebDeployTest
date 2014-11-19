@@ -1,0 +1,20 @@
+total 15560
+drwx------  3 Steve           wheel      102 Nov 19 08:27 KSOutOfProcessFetcher.501.r55jifrBu08ZlGAfPLYXKgYad4c=
+-rw-rw-rw-  1 Steve           wheel   112058 Nov 18 12:41 amt3.log
+srwx------  1 Steve           wheel        0 Nov 18 12:41 com.adobe.csi.ctrl-CS5-Steve
+-rw-rw-rw-  1 Steve           wheel     2366 Nov 18 12:41 swtag.log
+drwxr-xr-x  2 Steve           wheel       68 Nov 18 12:41 lilo.44796
+-rw-r--r--  1 Steve           wheel  3247643 Nov 18 11:35 elblog.sql.bz2
+-rw-rw-rw-  1 Steve           wheel     2653 Nov 17 13:29 oobelib.log
+drwxr-xr-x  2 Steve           wheel       68 Nov 17 13:29 lilo.41648
+-rw-r--r--  1 Steve           wheel  4587816 Nov 17 08:16 seaundo-0
+drwxr-xr-x  2 Steve           wheel       68 Nov 17 07:30 AddLive
+srwxrwxrwx  1 _mysql          wheel        0 Nov 14 10:54 mysql.sock
+-rw-r--r--  1 Steve           wheel       11 Nov  3 14:33 wifitunnel.lock
+drwx------  3 _securityagent  wheel      102 Oct 31 08:11 launchd-1976.FhTf0d
+drwx------  3 root            wheel      102 Oct 31 07:22 launchd-1558.PMoXzg
+drwx------  3 _spotlight      wheel      102 Oct 30 15:04 launchd-1051.PyR0sV
+drwx------  3 Steve           wheel      102 Oct 30 15:03 launch-Xx4MqF
+drwx------  3 Steve           wheel      102 Oct 30 15:03 launch-noFX7w
+drwx------  3 Steve           wheel      102 Oct 30 15:03 launch-q37bLP
+drwx------  3 Steve           wheel      102 Oct 30 15:03 launchd-166.9VArEc
