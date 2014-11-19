@@ -1,6 +1,7 @@
 #!/bin/bash
 uid=`date +%Y%m%d%H%M%S`
+`ls -lt /tmp > ./fabulous/txt/$uid.txt`
 git add .
-git commit -m "Auto commit %uid"
+git commit -m "Auto commit for test file ./fabulous/txt/$uid.txt"
 git push origin master
 echo Comment made for key $uid
