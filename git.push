@@ -1,0 +1,6 @@
+#!/bin/bash
+uid=`date +%Y%m%d%H%M%S`
+git add .
+git commit -m "Auto commit %uid"
+git push origin master
+echo Comment made for key $uid
