@@ -1,4 +1,12 @@
-.border {
+.border1 {
     border-style: solid;
-    border-color: #98bf21;
+    border-color: #CC0000;
+}
+.border2 {
+    border-style: solid;
+    border-color: #6633FF;
+}
+.border3 {
+    border-style: solid;
+    border-color: #003300;
 }
