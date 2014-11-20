@@ -2,4 +2,3 @@
 git add .
 git commit -m "Auto commit for testing"
 git push origin master
-echo Comment made for key $uid
